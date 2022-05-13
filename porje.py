@@ -21,7 +21,7 @@ a2 = "luey sends 3.7 LC to his brother"
 a3 = "luey's teacher sends 15.02 LC to his son"
 a4 = "luey sends 15.021 LC to his university"
 
-initial_block = LueyCoinBlock("Initial string", [a1, a2])#1.blok oluşturduc
+initial_block = LueyCoinBlock("Initial string", [a1, a2])#1.blok oluşturduk
  
 print(initial_block.block_data)#işlemler bilgileri gösterir
 print(initial_block.block_hash)#şire gösterir
